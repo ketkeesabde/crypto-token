@@ -1,0 +1,1 @@
+{"version":"0.1.0","name":"faucet_assets","dependencies":{"@dfinity/auth-client":{"version":"0.10.3"},"@dfinity/authentication":{"version":"0.10.3"},"@dfinity/identity":{"version":"0.10.3"},"lit-html":{"version":"1.4.1"},"react-dom":{"version":"16.14.0"},"react-scripts":{"version":"5.0.0"},"react":{"version":"16.14.0"}}}

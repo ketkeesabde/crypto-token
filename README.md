@@ -1,5 +1,5 @@
 # crypto-token
-Project yet to be hosted on live ic-network<br /><br />
+Live Demo on ic-network : https://zc3uv-aqaaa-aaaak-acx3a-cai.raw.ic0.app/
 installation : <br />
 dfx start <br />
 npm install<br />
